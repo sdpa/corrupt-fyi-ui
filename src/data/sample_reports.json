@@ -1,0 +1,202 @@
+[
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174001",
+        "department": "Police",
+        "amount": 500,
+        "state": "MH",
+        "district": "Mumbai City",
+        "city": "Mumbai",
+        "description": "Traffic police demanded bribe to avoid challan for not wearing a seatbelt even though I was wearing one.",
+        "date_reported": "2023-10-15T10:30:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174002",
+        "department": "Revenue",
+        "amount": 15000,
+        "state": "KA",
+        "district": "Bangalore Urban",
+        "city": "Bangalore",
+        "description": "Official asked for 15k to process land registration documents which should be free.",
+        "date_reported": "2023-10-12T14:15:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174003",
+        "department": "Transport",
+        "amount": 2000,
+        "state": "DL",
+        "district": "New Delhi",
+        "city": "Delhi",
+        "description": "RTO agent demanded extra money for driving license test slot booking.",
+        "date_reported": "2023-10-10T09:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174004",
+        "department": "Municipal Corporation",
+        "amount": 50000,
+        "state": "MH",
+        "district": "Pune",
+        "city": "Pune",
+        "description": "Building permit approval was delayed for months until a bribe was paid to the junior engineer.",
+        "date_reported": "2023-09-28T11:45:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174005",
+        "department": "Electricity",
+        "amount": 3000,
+        "state": "TN",
+        "district": "Chennai",
+        "city": "Chennai",
+        "description": "Lineman asked for money to install a new meter connection for my shop.",
+        "date_reported": "2023-09-25T16:20:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174006",
+        "department": "Police",
+        "amount": 1000,
+        "state": "TS",
+        "district": "Hyderabad",
+        "city": "Hyderabad",
+        "description": "Passport verification officer hinted at a 'gift' to clear the application quickly.",
+        "date_reported": "2023-09-20T13:10:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174007",
+        "department": "Transport",
+        "amount": 5000,
+        "state": "UP",
+        "district": "Lucknow",
+        "city": "Lucknow",
+        "description": "Had to pay to get vehicle registration certificate (RC) without waiting for 3 months.",
+        "date_reported": "2023-09-15T10:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174008",
+        "department": "Police",
+        "amount": 200,
+        "state": "MH",
+        "district": "Mumbai Suburban",
+        "city": "Mumbai",
+        "description": "Constable took 200 rupees for letting me go after a minor traffic signal violation.",
+        "date_reported": "2023-09-10T18:30:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174009",
+        "department": "Municipal Corporation",
+        "amount": 8000,
+        "state": "KA",
+        "district": "Bangalore Urban",
+        "city": "Bangalore",
+        "description": "Water connection was denied citing technical reasons until I paid the area supervisor.",
+        "date_reported": "2023-09-05T11:15:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174010",
+        "department": "Revenue",
+        "amount": 2500,
+        "state": "DL",
+        "district": "South Delhi",
+        "city": "Delhi",
+        "description": "Property tax assessment was manipulated to show higher dues unless a bribe was paid.",
+        "date_reported": "2023-09-01T14:45:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174011",
+        "department": "Health",
+        "amount": 500,
+        "state": "WB",
+        "district": "Kolkata",
+        "city": "Kolkata",
+        "description": "Hospital staff demanded money to change bed sheets in the general ward.",
+        "date_reported": "2023-08-28T09:30:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174012",
+        "department": "Education",
+        "amount": 10000,
+        "state": "RJ",
+        "district": "Jaipur",
+        "city": "Jaipur",
+        "description": "School administration asked for a 'donation' for admission in kindergarten under RTE quota.",
+        "date_reported": "2023-08-25T10:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174013",
+        "department": "Police",
+        "amount": 1500,
+        "state": "GJ",
+        "district": "Ahmedabad",
+        "city": "Ahmedabad",
+        "description": "Police threatened to file a false case during a routine check unless paid off.",
+        "date_reported": "2023-08-20T22:15:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174014",
+        "department": "Passport",
+        "amount": 500,
+        "state": "KL",
+        "district": "Ernakulam",
+        "city": "Kochi",
+        "description": "Postman demanded 500 rupees to deliver the passport.",
+        "date_reported": "2023-08-15T11:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174015",
+        "department": "Panchayat",
+        "amount": 2000,
+        "state": "AP",
+        "district": "Visakhapatnam",
+        "city": "Visakhapatnam",
+        "description": "Village officer asked for bribe to issue a birth certificate.",
+        "date_reported": "2023-08-10T15:30:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174016",
+        "department": "Railways",
+        "amount": 300,
+        "state": "UP",
+        "district": "Varanasi",
+        "city": "Varanasi",
+        "description": "TTE took money to allocate a berth without issuing a receipt.",
+        "date_reported": "2023-08-05T20:45:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174017",
+        "department": "Excise",
+        "amount": 5000,
+        "state": "PB",
+        "district": "Ludhiana",
+        "city": "Ludhiana",
+        "description": "Liquor shop owner forced to pay monthly bribe to local excise inspector.",
+        "date_reported": "2023-08-01T12:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174018",
+        "department": "Forest",
+        "amount": 1000,
+        "state": "MP",
+        "district": "Bhopal",
+        "city": "Bhopal",
+        "description": "Forest guard demanded money to allow collecting firewood.",
+        "date_reported": "2023-07-28T08:30:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174019",
+        "department": "Police",
+        "amount": 5000,
+        "state": "HR",
+        "district": "Gurugram",
+        "city": "Gurugram",
+        "description": "Police asked for bribe to register an FIR for a stolen mobile phone.",
+        "date_reported": "2023-07-25T19:00:00Z"
+    },
+    {
+        "id": "123e4567-e89b-12d3-a456-426614174020",
+        "department": "Municipal Corporation",
+        "amount": 12000,
+        "state": "TN",
+        "district": "Coimbatore",
+        "city": "Coimbatore",
+        "description": "Bribe demanded for approving house plan deviation.",
+        "date_reported": "2023-07-20T10:45:00Z"
+    }
+]
